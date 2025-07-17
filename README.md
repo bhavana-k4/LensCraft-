@@ -14,6 +14,6 @@ The template includes beautifully styled sections like:
 
 ---
 
-🚀 **Check out the live demo here:** [LensCraft Live Site](https://your-live-demo-link.com)
+🚀 **Check out the live demo here:**  https://bhavana-k4.github.io/LensCraft-/
 
 
