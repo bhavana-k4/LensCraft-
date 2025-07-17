@@ -12,4 +12,5 @@ The template includes beautifully styled sections like:
 - 📞 **Contact** – to share communication details for inquiries or collaborations
 
 While it's currently a **static design** (without functional buttons or navigation), it serves as a solid foundation that can be integrated with backend technologies to build a full-fledged, interactive website in the future.
+🚀 **Check out the live demo here:** 
 
